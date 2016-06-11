@@ -2,7 +2,7 @@
 
 Thermomulator.ino
  
-Copyright (c) 2011-2013 Paul Kulyk <paul.kulyk@usask.ca>
+Copyright (c) 2011-2013Paul Kulyk <paul.kulyk@usask.ca>
  
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
